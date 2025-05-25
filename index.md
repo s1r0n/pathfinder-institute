@@ -13,7 +13,7 @@ The Pathfinder Institute serves as the overarching accrediting and governing bod
 
 ​	The Pathfinder mission is to dismantle oppressive educational systems and replace them with relational, decolonial, and integrative frameworks that empower all learners to reclaim their developmental trajectory, connect deeply to self and world, and fulfill their archetypal roles within an emerging [Harmonic Social Structure](https://spiritwiki.lightningpath.org/index.php/Harmonic_Social_Structure).[1](#sdfootnote1sym)
 
-<a href="/assets/files/pathfinder-educational-model" class="btn btn-primary" role="button">Read Pathfinder Proposal</a>
+[Pathfinder Proposal](assets/files/pathfinder-educational-model){: .btn}
 
 
 ## Functions
