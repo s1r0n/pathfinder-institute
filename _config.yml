@@ -4,12 +4,12 @@ remote_theme: just-the-docs/just-the-docs
 
 # Aux links for the upper right navigation
 aux_links:
-  "Just the Docs on GitHub":
-    - "//github.com/just-the-docs/just-the-docs"
+  "Avatar.GLOBAL":
+    - "/coming-soon"
 
 # External navigation links
 nav_external_links:
-  - title: The Pathfinder Folder
+  - title: The Pathfinder Proposal (PEM)
     url: https://github.com/just-the-docs/just-the-docs
     hide_icon: false # set to true to hide the external link icon - defaults to false
     opens_in_new_tab: false # set to true to open this link in a new tab - defaults to false
