@@ -10,6 +10,9 @@ aux_links:
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: false
 
+# Sidebar depth (default is 1)
+# E.g., 2 = show parent + child
+#heading_levels: 2
 
 plugins:
   - jekyll-seo-tag
