@@ -7,12 +7,25 @@ aux_links:
   "Just the Docs on GitHub":
     - "//github.com/just-the-docs/just-the-docs"
 
+# External navigation links
+nav_external_links:
+  - title: The Pathfinder Educational Model
+    url: https://github.com/just-the-docs/just-the-docs
+    hide_icon: false # set to true to hide the external link icon - defaults to false
+    opens_in_new_tab: false # set to true to open this link in a new tab - defaults to fals
+
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: false
 
 # Sidebar depth (default is 1)
 # E.g., 2 = show parent + child
+
 #heading_levels: 2
+# Heading anchor links appear on hover over h1-h6 tags in page content
+# allowing users to deep link to a particular heading on a page.
+#
+# Supports true (default) or false
+heading_anchors: true
 
 plugins:
   - jekyll-seo-tag
@@ -32,9 +45,6 @@ search_enabled: true
 
 # Optional: color customization
 color_scheme: dark  # light  dark or auto
-
-aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
   
 # Optional: logo
 # logo: "/assets/images/logo.png"
