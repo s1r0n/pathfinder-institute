@@ -2,6 +2,15 @@ title: Pathfinder Institute
 description: A spiritually integrated educational framework.
 Remote theme: just-the-docs/just-the-docs
 
+# Aux links for the upper right navigation
+aux_links:
+  "Just the Docs on GitHub":
+    - "//github.com/just-the-docs/just-the-docs"
+
+# Makes Aux links open in a new tab. Default is false
+aux_links_new_tab: false
+
+
 plugins:
   - jekyll-seo-tag
 
@@ -10,6 +19,11 @@ plugins:
 nav_enabled: true
 
 url: https://just-the-docs.github.io
+
+mermaid:
+  # Version of mermaid library
+  # Pick an available version from https://cdn.jsdelivr.net/npm/mermaid/
+  version: "11.6.0"
 
 search_enabled: true
 
