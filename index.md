@@ -1,3 +1,8 @@
+---
+layout: default
+title: Home
+nav_order: 1
+
 # The Pathfinder Institute
 
 The Pathfinder Institute serves as the overarching accrediting and governing body of the [Pathfinder Educational Model](https://spiritwiki.lightningpath.org/index.php/Pathfinder_Educational_Model). It is composed of a diverse cross-section of experts, scholars, parents, teachers, business leaders, and community stakeholders. If you would like to contribute by becoming a committee member, contact mikes@athabascau.ca
@@ -7,6 +12,9 @@ The Pathfinder Institute serves as the overarching accrediting and governing bod
 ​	The Pathfinder Institute is a decentralized pedagogical research and development hub dedicated to fostering holistic, ethical, and transformative education. Anchored in the Pathfinder Model, it supports educators, learners, and communities seeking to co-create a future-oriented, spiritually and socially aligned approach to learning.
 
 ​	The Pathfinder mission is to dismantle oppressive educational systems and replace them with relational, decolonial, and integrative frameworks that empower all learners to reclaim their developmental trajectory, connect deeply to self and world, and fulfill their archetypal roles within an emerging [Harmonic Social Structure](https://spiritwiki.lightningpath.org/index.php/Harmonic_Social_Structure).[1](#sdfootnote1sym)
+
+<a href="/assets/files/pathfinder-educational-model" class="btn btn-primary" role="button">Read Pathfinder Proposal</a>
+
 
 ## Functions
 
