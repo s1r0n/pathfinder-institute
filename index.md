@@ -5,6 +5,9 @@ nav_order: 001
 
 ---
 
+>To my knowledge, no class can hold State power over a long period without at the same time exercising its hegemony over and in the State Ideological Apparatuses. I only need one example and proof of this: Lenin’s anguished concern to revolutionize the educational Ideological State Apparatus... simply to make it possible for the Soviet proletariat, who had seized State power, to secure the future of the... proletariat and the transition to socialism.
+> — **Louis Althusser**
+
 # The Pathfinder Institute
 
 The Pathfinder Institute serves as the overarching accrediting and governing body of the [Pathfinder Educational Model](/assets/files/1-pem.pdf). It is composed of a diverse cross-section of experts, scholars, parents, teachers, business leaders, and community stakeholders. If you would like to contribute by becoming a committee member, contact mikes@athabascau.ca
