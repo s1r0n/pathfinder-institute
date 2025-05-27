@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The Pathfinder Model
+title: The Crises of Education
 nav_order: 20
 has_children: true
 ---
