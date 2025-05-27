@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Introduction - The Crises of Education
-nav_order: 001
+title: The Pathfinder Model
+nav_order: 20
 has_children: true
 ---
 
