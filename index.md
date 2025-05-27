@@ -17,11 +17,7 @@ The Pathfinder Institute serves as the overarching accrediting and governing bod
 
 > [!NOTE]
 >
-<<<<<<< HEAD
-> A **Harmonic Social Structure (HSS)** is a social, economic, and political configuration consciously designed to promote individual and collective [Human Flourishing](https://spiritwiki.lightningpath.org/index.php/Human_Flourishing), facilitate the realization of full [Human Potential](https://spiritwiki.lightningpath.org/index.php/Human_Potential), and support the health and well-being of the planet. In contrast to hierarchical, oppressive, and exploitative social systems (e.g., capitalism, feudalism, theocracy), an HSS ensures the satisfaction of all [Seven Essential Needs](https://spiritwiki.lightningpath.org/index.php/Seven_Essential_Needs) and removes the [Five Barriers to Human Flourishing](https://spiritwiki.lightningpath.org/index.php/Five_Barriers_to_Human_Flourishing). Harmonic Social Structures are aligned with the principles of the [Lightning Path Human Development Framework](https://spiritwiki.lightningpath.org/index.php/Lightning_Path_Human_Development_Framework) **(HDF)** and are necessary to support safe, healthy, and accelerated [Human Development](https://spiritwiki.lightningpath.org/index.php/Human_Development) across all aspects: [Healing](https://spiritwiki.lightningpath.org/index.php/Healing), [Alignment](https://spiritwiki.lightningpath.org/index.php/Alignment), [Connection](https://spiritwiki.lightningpath.org/index.php/Connection), [Integration](https://spiritwiki.lightningpath.org/index.php/Integration), [Empowerment](https://spiritwiki.lightningpath.org/index.php/Empowerment), [Perfection](https://spiritwiki.lightningpath.org/index.php/Perfection), and [Transformation](https://spiritwiki.lightningpath.org/index.php/Transformation) (i.e., the [Seven Components of Human Development](https://spiritwiki.lightningpath.org/index.php/Seven_Components_of_Human_Development)),
-=======
 > A **Harmonic Social Structure (HSS)** is a social, economic, and political configuration consciously designed to promote individual and collective [Human Flourishing](https://spiritwiki.lightningpath.org/index.php/Human_Flourishing), facilitate the realization of full [Human Potential](https://spiritwiki.lightningpath.org/index.php/Human_Potential), and support the health and well-being of the planet. A HSS stands in contrast to  hierarchical, oppressive, and exploitative social systems (e.g., capitalism, feudalism, theocracy). For more, see its [SpiritWiki entry](https://spiritwiki.lightningpath.org).
->>>>>>> e05966a027d33a93e54e68e4ed5a56e1c3a3c6b3
 
 ​		[Read the Pathfinder Proposal](assets/files/pathfinder-educational-model){: .btn}
 
@@ -41,9 +37,3 @@ The Pathfinder Institute carries out several key functions. The current structur
 | **5. Learning Hub Support, Development, Accreditation**   | Supports creation and accreditation of Pathfinder Learning Hubs; offers guidance on organization and learning design. | LH Support and Accreditation      | Educators, parents, and community supporters.                |
 | **6. Marketing, Community Engagement & Global Alignment** | Drives marketing and community activation; aims to adapt the Pathfinder system to global contexts through international collaboration. | Pathfinder Activation             | Marketers, influencers, artists, and cultural workers.       |
 
-
-<<<<<<< HEAD
-
-
-
->>>>>>> e05966a027d33a93e54e68e4ed5a56e1c3a3c6b3
