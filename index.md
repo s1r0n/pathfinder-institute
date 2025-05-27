@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: The Pathfinder Institute
 nav_order: 001
 
 ---
