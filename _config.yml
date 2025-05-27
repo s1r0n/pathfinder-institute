@@ -34,7 +34,7 @@ plugins:
 # Nav menu can also be selectively enabled or disabled using page variables or the minimal layout
 nav_enabled: true
 
-url: https://just-the-docs.github.io
+url: https://s1r0n.github.io/
 
 mermaid:
   # Version of mermaid library
