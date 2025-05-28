@@ -4,7 +4,9 @@ title: Helping Out
 nav_order: 50
 ---
 
+## Committee Structure
 
+The following table provides an up-to-date presentation of the insitute's committee structure. Task lists and committee discussions are held on Discord. If you're interested in donating some of time and helping out on one or two of these committees, reach out in the Discord Channels. 
 
 
 | Area                                                      | Description                                                  | Committee                         | Membership                                                   |
