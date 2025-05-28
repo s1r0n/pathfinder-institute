@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Helping Out
-nav_order: 100
+nav_order: 99
 ---
 
 Coming Soon
