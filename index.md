@@ -10,8 +10,6 @@ nav_order: 001
 
 # The Pathfinder Institute
 
-The Pathfinder Institute serves as the overarching accrediting and governing body of the [Pathfinder Educational Model](/assets/files/1-pem.pdf). It is composed of a diverse cross-section of experts, scholars, parents, teachers, business leaders, and community stakeholders. If you would like to contribute by becoming a committee member, contact mikes@athabascau.ca
-
 ## Mission & Vision
 
 ​	The Pathfinder Institute is a decentralized pedagogical research and development hub dedicated to fostering holistic, ethical, and transformative education. Anchored in the Pathfinder Model, it supports educators, learners, and communities seeking to co-create a future-oriented, spiritually and socially aligned approach to learning.
@@ -27,16 +25,6 @@ The Pathfinder Institute serves as the overarching accrediting and governing bod
 
 ## Functions
 
-The Pathfinder Institute carries out several key functions. The current structure and function of the Pathfinder Institute and their associated committees are outlined below
+The Pathfinder Institute carries out several key functions including curriculum development,  research, operations, and pedagogical and ethical oversite. Check out the [Committee Page](https://s1r0n.github.io/pathfinder-institute/50-committee-structure.html) for currently active committees. 
 
-
-
-| Area                                                      | Description                                                  | Committee                         | Membership                                                   |
-| :-------------------------------------------------------- | ------------------------------------------------------------ | --------------------------------- | ------------------------------------------------------------ |
-| **1. Pedagogical and Ethical Integrity and Oversite**                  | The Pathfinder Institute sets and enforces ethical and pedagogical standards and develops safeguards and balances to ensure long-term integrity. | The Circle                        | By appointment. A core group of ethically advanced individuals tasked with preserving institutional integrity. To check it out or apply, visit the [Inner Circle](https://discord.gg/dGegJJpbcV) committee chat. |
-| **2. Administration and Organization**                    | Sets the organizational structure of the institute, including authority, administration, and committee framework. | Steering Committee                | Aligned and qualified individuals interested in oversight and operations. |
-| **3. Knowledge System Development**                       | Supports development of [Pathfinder Knowledge Systems](https://spiritwiki.lightningpath.org/index.php/Knowledge_System)—structured, transdisciplinary systems for organizing and transmitting knowledge. | Council of Stewards               | Human Stewards, AI Stewards, and technically inclined individuals familiar with AI/semantic systems. |
-| **4. Curriculum and Pedagogy**                            | Sets and updates the Pathfinder Pedagogical Framework and Curriculum Map. | Curriculum and Pedagogy Committee | Educators, parents, and community supporters.                |
-| **5. Learning Hub Support, Development, Accreditation**   | Supports creation and accreditation of Pathfinder Learning Hubs; offers guidance on organization and learning design. | LH Support and Accreditation      | Educators, parents, and community supporters.                |
-| **6. Marketing, Community Engagement & Global Alignment** | Drives marketing and community activation; aims to adapt the Pathfinder system to global contexts through international collaboration. | Pathfinder Activation             | Marketers, influencers, artists, and cultural workers.       |
-
+The Pathfinder Institute serves as the overarching accrediting and governing body of the [Pathfinder Educational Model](/assets/files/1-pem.pdf). It is composed of a diverse cross-section of experts, scholars, parents, teachers, business leaders, and community stakeholders. If you are a parent, teacher, student, community member, etc. and would like to contribute, visit our [Helping Out](https://github.com/s1r0n/pathfinder-institute/blob/main/99-helping-out.md) page for ideas. 
