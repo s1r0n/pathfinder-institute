@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Helping Out
+title: Committee Structure
 nav_order: 50
 ---
 
