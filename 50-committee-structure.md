@@ -6,7 +6,7 @@ nav_order: 50
 
 ## Committee Structure
 
-The following table provides an up-to-date presentation of the insitute's committee structure. Task lists and committee discussions are held on Discord. If you're interested in donating some of time and helping out on one or two of these committees, reach out in the Discord Channels. 
+The following table provides an up-to-date presentation of the institute's committee structure. Task lists and committee discussions are held on Discord. If you're interested in donating some of time and helping out on one or two of these committees, reach out in the Discord channels. If the channel does not yet exist, reach out to Michael at mikes@athabascau.ca and we'll get one setup. This only way this gets built is with the help and support of *you.*
 
 
 | Area                                                      | Description                                                  | Committee                         | Membership                                                   |

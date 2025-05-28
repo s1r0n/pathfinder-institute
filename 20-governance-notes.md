@@ -6,7 +6,7 @@ nav_order: 30
 
 ## Governance and Integrity Framework
 
-Open access without integrity safeguards leads to drift, dilution, and ideological capture—especially in high-stakes systems like education. The Pathfinder Educational Model is not just curriculum; it is a paradigm. Uncontrolled remixing risks replicating the very power distortions the model exists to dismantle.
+Open access without integrity safeguards leads to drift, dilution, and ideological capture—especially in high-stakes systems like education. The Pathfinder Educational Model is more than just curriculum, it is a paradigm. Uncontrolled remixing risks replicating the power distortions the model exists to dismantle.
 
 ### The Root Problem
 
@@ -22,9 +22,7 @@ To preserve epistemic clarity and pedagogical integrity, Pathfinder governance f
 
 ---
 
-## Integrity Circle Framework
-
-### 1. **The Circle** (Integrity and Oversight Committee)
+## The Integrity Circle (Integrity and Oversight Committee)
 
 **Purpose**: Uphold the epistemic, ethical, and pedagogical foundations of the Pathfinder system.  
 **Authority**: Final arbiter on canonical status of Pathfinder materials—curriculum, AI systems, training protocols.
@@ -42,7 +40,7 @@ To preserve epistemic clarity and pedagogical integrity, Pathfinder governance f
 
 ---
 
-### 2. **The Outer Network** (Pathfinder Committee Community Contributors)
+## 2. **The Outer Network** (Pathfinder Committee Community Contributors)
 
 
 An open community of educators, technologists, students, and researchers who may:
